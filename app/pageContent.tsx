@@ -36,7 +36,7 @@ const Countdown = () => {
   }, [countdownDate]);
 
   return (
-    <div className="w-screen h-screen flex px-4 flex-col justify-center items-center bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-400">
+    <div className="w-screen h-screen flex px-4 flex-col justify-center items-center bg-gradient-to-r from-blue-300 via-green-200 to-yellow-300">
       <div className="bg-white shadow-md p-3 px-8">
         <img src="/logovc.png" className="w-24" alt="logo" />
       </div>
